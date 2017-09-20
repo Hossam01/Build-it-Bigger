@@ -43,4 +43,4 @@ public class MainActivityFragment extends Fragment {
         new EndpointsAsyncTask().execute(this);
     }
 
-}
+}w
